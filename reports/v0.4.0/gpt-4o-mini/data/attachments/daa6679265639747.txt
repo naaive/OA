@@ -1,0 +1,17 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72321, "fully_diluted_valuation": 1517699980049, "total_volume": 43207003506}, {"symbol": "eth", "name": "Ethereum", "current_price": 2649.63, "fully_diluted_valuation": 318926568038, "total_volume": 21782407714}, {"symbol": "usdt", "name": "Tether", "current_price": 1.0, "fully_diluted_valuation": 120532000801, "total_volume": 44411934119}, {"symbol": "bnb", "name": "BNB", "current_price": 591.81, "fully_diluted_valuation": 86302812957, "total_volume": 754468599}, {"symbol": "sol", "name": "Solana", "current_price": 174.9, "fully_diluted_valuation": 102716402205, "total_volume": 3629832125}, {"symbol": "usdc", "name": "USDC", "current_price": 1.0, "fully_diluted_valuation": 35032864942, "total_volume": 4718249712}, {"symbol": "xrp", "name": "XRP", "current_price": 0.521371, "fully_diluted_valuation": 52110287483, "total_volume": 886049281}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2648.36, "fully_diluted_valuation": 25818156692, "total_volume": 38532079}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.170987, "fully_diluted_valuation": 25044011987, "total_volume": 2378957576}, {"symbol": "trx", "name": "TRON", "current_price": 0.169154, "fully_diluted_valuation": 14619995093, "total_volume": 439962568}][0m[32;1m[1;3m🎉 Hold onto your hats and wallets, because Bitcoin is shining brightly in the crypto sky! As of now, Bitcoin (BTC) has a whopping market cap of approximately **$1.52 trillion**! 💰✨
+
+Here are some sparkling details about Bitcoin:
+- **Current Price**: $72,321
+- **Fully Diluted Valuation**: $1,517,699,980,049
+- **Total Volume**: $43,207,003,506
+
+Bitcoin is the heavyweight champion of the crypto world, and it looks like it's not backing down anytime soon! 🚀 If you have any other questions about the crypto cosmos, just ask! 🌌[0m
+
+[1m> Finished chain.[0m
