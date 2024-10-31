@@ -1,0 +1,2 @@
+2024-10-31 03:36:55.051 | INFO     | tests.agent_trajectory.feed_explore:feed_explorer_agent:12 - using model: gpt-4o-mini
+2024-10-31 03:37:05.235 | INFO     | openagent.executors.feed_source_executor:fetch_source_feeds:131 - Fetching activities for address: XYZ, network: None, platform: None

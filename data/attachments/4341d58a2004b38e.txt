@@ -1,6 +1,0 @@
-
-
-[1m> Entering new AgentExecutor chain...[0m
-[32;1m[1;3mTo help you with activities on the XYZ network, I first need a specific wallet address or blockchain domain name to investigate! Could you please provide me with that? 😊🔍[0m
-
-[1m> Finished chain.[0m

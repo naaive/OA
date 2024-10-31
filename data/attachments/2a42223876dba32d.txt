@@ -1,0 +1,16 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72373, "fully_diluted_valuation": 1519612422183, "total_volume": 39070836512}, {"symbol": "eth", "name": "Ethereum", "current_price": 2655.61, "fully_diluted_valuation": 319791014077, "total_volume": 22302091033}, {"symbol": "usdt", "name": "Tether", "current_price": 0.999851, "fully_diluted_valuation": 120554509285, "total_volume": 43075010846}, {"symbol": "bnb", "name": "BNB", "current_price": 592.52, "fully_diluted_valuation": 86434660177, "total_volume": 804468267}, {"symbol": "sol", "name": "Solana", "current_price": 175.06, "fully_diluted_valuation": 102937682634, "total_volume": 3653762907}, {"symbol": "usdc", "name": "USDC", "current_price": 0.999916, "fully_diluted_valuation": 35040245379, "total_volume": 5301212042}, {"symbol": "xrp", "name": "XRP", "current_price": 0.521575, "fully_diluted_valuation": 52133170421, "total_volume": 927616603}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2654.33, "fully_diluted_valuation": 25885045238, "total_volume": 42344362}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.17076, "fully_diluted_valuation": 25090590588, "total_volume": 2419329256}, {"symbol": "trx", "name": "TRON", "current_price": 0.169151, "fully_diluted_valuation": 14627823102, "total_volume": 478358331}][0m[32;1m[1;3m🚀 Hold onto your wallets, because Bitcoin is shining bright in the crypto sky! 🌟
+
+As of now, Bitcoin (BTC) has a **current price** of **$72,373**. 💰 But wait, there’s more! Its **fully diluted market cap** is a whopping **$1,519,612,422,183**! That's right, over **1.5 trillion dollars**! 💸
+
+And if you're curious about its trading activity, the **total volume** is around **$39,070,836,512** in the last 24 hours! That's a lot of Bitcoin action! 🔥
+
+So, are you ready to ride the crypto wave? 🌊 [0m
+
+[1m> Finished chain.[0m

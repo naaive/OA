@@ -1,5 +1,0 @@
-2024-10-31 02:56:48.965 | INFO     | tests.agent_trajectory.market_analysis:market_analysis_agent:12 - using model: gpt-4o-mini
-2024-10-31 02:56:49.887 | WARNING  | openagent.executors.funding_rate_executor:fetch_funding_rate:57 - Fetch funding rate error from binance: binance GET https://api.binance.com/api/v3/exchangeInfo 451  {
-  "code": 0,
-  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
-}

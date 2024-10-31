@@ -1,0 +1,12 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `DeFiExecutor` with `{'address': '0x742d35Cc6634C0532925a3b844Bc454e4438f44e', 'activity_type': 'all'}`
+
+
+[0m[38;5;200m[1;3mNo DeFi activities found for 0x742d35Cc6634C0532925a3b844Bc454e4438f44e.[0m[32;1m[1;3mLooks like we've hit a little snag! 🐌 There are currently no DeFi activities to report for the address **0x742d35Cc6634C0532925a3b844Bc454e4438f44e**. It's a bit like looking for a needle in a haystack… but the haystack is also just a bunch of hay! 🌾
+
+If you have another address or a different type of activity in mind, just let me know, and I'll dive right in! 🚀[0m
+
+[1m> Finished chain.[0m

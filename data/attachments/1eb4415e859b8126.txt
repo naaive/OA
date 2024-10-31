@@ -1,3 +1,0 @@
-2024-10-31 02:56:37.454 | INFO     | tests.agent_trajectory.feed_explore:feed_explorer_agent:12 - using model: gpt-4o-mini
-2024-10-31 02:56:41.241 | INFO     | openagent.executors.feed_executor:fetch_feeds:82 - fetching https://gi.rss3.io/decentralized/vitalik.eth?limit=5&action_limit=10&tag=social
-2024-10-31 02:56:41.242 | INFO     | openagent.executors.feed_source_executor:fetch_source_feeds:131 - Fetching activities for address: vitalik.eth, network: None, platform: None

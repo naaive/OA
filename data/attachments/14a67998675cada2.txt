@@ -1,1 +1,0 @@
-2024-10-31 02:56:12.676 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'asset_management_agent'}

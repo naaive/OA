@@ -1,2 +1,0 @@
-2024-10-31 02:56:37.433 | INFO     | tests.agent_trajectory.feed_explore:feed_explorer_agent:12 - using model: gpt-4o-mini
-2024-10-31 02:56:43.964 | INFO     | openagent.executors.feed_executor:fetch_feeds:82 - fetching https://gi.rss3.io/decentralized/0x742d35Cc6634C0532925a3b844Bc454e4438f44e?limit=5&action_limit=10&tag=social

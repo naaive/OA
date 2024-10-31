@@ -1,1 +1,0 @@
-2024-10-31 02:56:12.476 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'market_analysis_agent'}
