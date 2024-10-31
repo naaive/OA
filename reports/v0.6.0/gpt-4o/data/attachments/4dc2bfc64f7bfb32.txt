@@ -1,0 +1,17 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `TokenBalanceExecutor` with `{'chain': 'eth', 'wallet_address': '0x33c0814654fa367ce67d8531026eb4481290e63c'}`
+
+
+[0m[38;5;200m[1;3m[{"symbol": "ETH", "balance_formatted": "0.60967011631557335", "usd_value": 1608.448774132131}, {"symbol": "USDT", "balance_formatted": "319.421186", "usd_value": 319.38164988574704}, {"symbol": "RSS3", "balance_formatted": "55.32", "usd_value": 6.382579672531572}, {"symbol": "ORDIBOT", "balance_formatted": "2856.365697944", "usd_value": 0.03590866188762808}, {"symbol": "Get $STONE reward at https://stakestonelabs.com", "balance_formatted": "48200", "usd_value": null}, {"symbol": "Get $STONE reward at https://stakestonelabs.xyz", "balance_formatted": "75000", "usd_value": null}, {"symbol": "Visit https://afcoc.xyz to claim rewards.", "balance_formatted": "801", "usd_value": null}, {"symbol": "Reward Token - Claim at https://stUSD.shop", "balance_formatted": "1325", "usd_value": null}, {"symbol": "Visit https://usdrewards.org to claim rewards", "balance_formatted": "3999.99", "usd_value": null}][0m[32;1m[1;3mHere's the ETH balance for the wallet address `0x33c0814654fa367ce67d8531026eb4481290e63c`:
+
+- **ETH**: 0.6097 ETH (worth approximately $1608.45) 🚀
+- **USDT**: 319.42 USDT (worth approximately $319.38) 💵
+- **RSS3**: 55.32 RSS3 (worth approximately $6.38) 📈
+- **ORDIBOT**: 2856.37 ORDIBOT (worth approximately $0.036) 🤖
+
+And a few other tokens related to reward claims, though their USD value isn't specified. If you have any more questions or need further assistance, feel free to ask! 😊[0m
+
+[1m> Finished chain.[0m

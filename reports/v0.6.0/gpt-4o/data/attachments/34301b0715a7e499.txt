@@ -1,0 +1,16 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `NFTBalanceExecutor` with `{'chain': 'eth', 'wallet_address': '0x33c0814654fa367ce67d8531026eb4481290e63c'}`
+
+
+[0m[36;1m[1;3m[{"amount": "1", "name": "NameWrapper", "symbol": null}, {"amount": "1", "name": "RSS Fruits Token", "symbol": "RFT"}, {"amount": "1", "name": "The Genesis RSS3 Avatar NFT", "symbol": "The Genesis RSS3 Avatar NFT"}][0m[32;1m[1;3mHold onto your hats! 🎩 This wallet has some exciting NFT treasures:
+
+1. **NameWrapper** - They've got 1 of these!
+2. **RSS Fruits Token (RFT)** - Just 1, but it's a juicy one! 🍎
+3. **The Genesis RSS3 Avatar NFT** - A unique piece with 1 in their collection! 🌟
+
+Looks like an impressive collection! If you need more info, feel free to ask. 😊[0m
+
+[1m> Finished chain.[0m
