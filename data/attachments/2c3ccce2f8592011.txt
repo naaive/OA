@@ -1,0 +1,6 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mI can help you with that! Just to confirm, would you like to swap from the Ethereum network to the Ethereum network as well? Or do you have a different blockchain in mind? 😊[0m
+
+[1m> Finished chain.[0m
