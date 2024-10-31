@@ -1,0 +1,39 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `ProjectExecutor` with `{'keyword': 'RSS3'}`
+
+
+[0m[33;1m[1;3m[{"one_liner": "Open Information Layer", "description": "RSS3 is the Open Information Layer, structuring open information for social, search, and AI. RSS3's mission is to construct the Open Web by enhancing the free flow of Open Information.", "active": true, "rootdataurl": "https://www.rootdata.com/Projects/detail/RSS3?k=MTA0MA==", "total_funding": 10000000, "project_name": "RSS3", "investors": [{"name": "Coinbase Ventures", "logo": "https://public.rootdata.com/images/b17/1666777683240.jpg"}, {"name": "Dragonfly", "logo": "https://public.rootdata.com/images/b11/1666595401774.jpg"}, {"name": "HashKey Capital", "logo": "https://public.rootdata.com/images/b6/1716472257216.jpg"}, {"name": "Fabric Ventures", "logo": "https://public.rootdata.com/images/b6/1713462915791.jpg"}, {"name": "Modular Capital", "logo": "https://public.rootdata.com/images/b17/1666780284889.jpg"}], "establishment_date": "2021", "tags": ["Social", "AI"], "similar_project": [{"project_id": 9033, "brief_description": "Web3 multi-modal AI character creation platform", "logo": "https://public.rootdata.com/images/p3988/1692791239460.png", "project_name": "Ohayo AI"}, {"project_id": 2653, "brief_description": "Co-creation metaverse platform enhanced by AI", "logo": "https://public.rootdata.com/images/b26/1668430408737.jpg", "project_name": "StarryNift"}, {"project_id": 11270, "brief_description": "Web3 AI + 3D entertainment social network", "logo": "https://public.rootdata.com/images/b12/1707311690230.png", "project_name": "Holoworld AI"}, {"project_id": 14863, "brief_description": "AI characters launchpad", "logo": "https://public.rootdata.com/images/b12/1730269544647.jpg", "project_name": "vvaifu.fun"}, {"project_id": 12054, "brief_description": "Social application based on AI and Web3.0", "logo": "https://public.rootdata.com/images/b12/1711439090692.jpg", "project_name": "ChatAI"}, {"project_id": 13599, "brief_description": "AI-Driven, Blockchain-Powered Virtual Companions", "logo": "https://public.rootdata.com/images/b6/1721614695229.jpg", "project_name": "MetaPals"}, {"project_id": 11820, "brief_description": "AI digital identity generating application", "logo": "https://public.rootdata.com/images/b6/1720081812830.jpg", "project_name": "vana"}, {"project_id": 13406, "brief_description": " Web3 AI Companion Platform", "logo": "https://public.rootdata.com/images/b39/1720412227675.png", "project_name": "XRAIS"}], "project_id": 1040, "logo": "https://public.rootdata.com/images/b19/1666407316215.jpg", "token_symbol": "RSS3", "social_media": {"website": "https://rss3.io/", "gitbook": "", "X": "https://x.com/rss3_", "medium": ""}}, {"one_liner": "Own your social activities", "description": "Crossbell is a platform for taking control of your social activities, composed of an EVM-compatible blockchain and a set of smart contracts. It enables users to reclaim ownership of their data.", "active": true, "rootdataurl": "https://www.rootdata.com/Projects/detail/Crossbell?k=MTE5Nw==", "project_name": "Crossbell", "investors": [], "establishment_date": "2022", "tags": ["Infra", "Layer1"], "similar_project": [{"project_id": 256, "brief_description": "Blockchain Fintech Provider for Sports and Entertainment", "logo": "https://public.rootdata.com/images/b13/1723279965564.png", "project_name": "Chiliz"}, {"project_id": 1, "brief_description": "Popular P2P file sharing protocol", "logo": "https://public.rootdata.com/images/b6/1666327415227.jpg", "project_name": "BitTorrent"}, {"project_id": 257, "brief_description": "Decentralized Layer1 network based on PoS consensus", "logo": "https://public.rootdata.com/images/b16/1666538924848.jpg", "project_name": "Oasis Network"}, {"project_id": 3, "brief_description": "Blockchain", "logo": "https://public.rootdata.com/images/b15/1666340694202.jpg", "project_name": "DeFiChain"}, {"project_id": 260, "brief_description": "Layer1 public chain ecosystem based on PoW consensus", "logo": "https://public.rootdata.com/images/b16/1666538939898.jpg", "project_name": "Nervos Network"}, {"project_id": 261, "brief_description": "PoS blockchain built on the Casper CBC specification", "logo": "https://public.rootdata.com/images/b6/1703432725111.png", "project_name": "Casper"}, {"project_id": 262, "brief_description": "High-performance Layer1 blockchain", "logo": "https://public.rootdata.com/images/b6/1670038207693.jpg", "project_name": "Conflux"}, {"project_id": 263, "brief_description": "PC Game Distribution Platform Powered by Blockchain", "logo": "https://public.rootdata.com/images/b16/1666539192710.jpg", "project_name": "Ultra"}], "project_id": 1197, "logo": "https://public.rootdata.com/images/b18/1666425001470.jpg", "token_symbol": "CSB", "social_media": {"website": "https://crossbell.io/", "gitbook": "", "X": "https://x.com/_Crossbell", "medium": ""}}][0m[32;1m[1;3mAbsolutely! Let’s dive into the world of **RSS3**—it’s like the Swiss Army knife of open information! 🛠️ 
+
+### **What is RSS3?**
+RSS3 is an **Open Information Layer** that aims to enhance the free flow of open information for social, search, and AI applications. Its mission? To construct the Open Web! 🌐✨
+
+- **Establishment Date**: 2021
+- **Total Funding**: $10,000,000 💰
+- **Token Symbol**: RSS3
+- **Website**: [rss3.io](https://rss3.io/)
+- **Social Media**: [Twitter](https://x.com/rss3_)
+
+### **Investors** 💼
+RSS3 has attracted some heavy-hitting investors, including:
+- ![Coinbase Ventures](https://public.rootdata.com/images/b17/1666777683240.jpg) **Coinbase Ventures**
+- ![Dragonfly](https://public.rootdata.com/images/b11/1666595401774.jpg) **Dragonfly**
+- ![HashKey Capital](https://public.rootdata.com/images/b6/1716472257216.jpg) **HashKey Capital**
+- ![Fabric Ventures](https://public.rootdata.com/images/b6/1713462915791.jpg) **Fabric Ventures**
+- ![Modular Capital](https://public.rootdata.com/images/b17/1666780284889.jpg) **Modular Capital**
+
+### **Project Highlights** 🎉
+- **Tags**: Social, AI
+- **Similar Projects**: 
+  - ![Ohayo AI](https://public.rootdata.com/images/p3988/1692791239460.png) **Ohayo AI**: A Web3 multi-modal AI character creation platform.
+  - ![StarryNift](https://public.rootdata.com/images/b26/1668430408737.jpg) **StarryNift**: A co-creation metaverse platform enhanced by AI.
+  - ![Holoworld AI](https://public.rootdata.com/images/b12/1707311690230.png) **Holoworld AI**: A Web3 AI + 3D entertainment social network.
+
+### **Fun Fact** 🤓
+You could say RSS3 is like the ultimate buffet for information—everyone can come, take what they like, and leave feeling full! 🍽️
+
+If you want to know more or have specific questions, feel free to ask! 🚀[0m
+
+[1m> Finished chain.[0m
