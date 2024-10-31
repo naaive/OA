@@ -1,0 +1,2 @@
+2024-10-31 04:35:29.404 | INFO     | tests.supervisor_chain:supervisor_chain:18 - using model: gpt-4o-mini
+2024-10-31 04:35:31.510 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'market_analysis_agent'}

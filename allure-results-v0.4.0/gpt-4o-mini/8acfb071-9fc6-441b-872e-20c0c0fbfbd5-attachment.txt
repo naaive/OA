@@ -1,0 +1,1 @@
+2024-10-31 04:35:32.257 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'research_analyst_agent'}

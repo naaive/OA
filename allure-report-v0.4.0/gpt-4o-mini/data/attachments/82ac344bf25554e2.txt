@@ -1,0 +1,16 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `PriceExecutor` with `{'token': 'BTC'}`
+
+
+[0m[38;5;200m[1;3m{"bitcoin":{"usd":72292,"usd_market_cap":1429211060883.24,"usd_24h_vol":43189565271.806915,"usd_24h_change":0.003197830829287979,"last_updated_at":1730349406}}[0m[32;1m[1;3m🎉 The current price of Bitcoin (BTC) is **$72,292**! 🚀
+
+And it gets better! With a market cap of approximately **$1.43 trillion** and a 24-hour trading volume of about **$43.19 billion**, Bitcoin is still riding high! 🥳
+
+It’s not just about the price, though – Bitcoin has seen a slight increase of about **0.32%** in the last 24 hours. Looks like BTC is trying to climb the charts faster than a cat on a hot tin roof! 😸🔥 
+
+If you have any other tokens in mind or need more info, just let me know! 🎈[0m
+
+[1m> Finished chain.[0m
