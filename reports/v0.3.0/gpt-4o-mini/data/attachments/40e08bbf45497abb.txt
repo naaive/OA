@@ -1,0 +1,14 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72277, "fully_diluted_valuation": 1518015546177, "total_volume": 43329064415}, {"symbol": "eth", "name": "Ethereum", "current_price": 2652.89, "fully_diluted_valuation": 319773080975, "total_volume": 22412920876}, {"symbol": "usdt", "name": "Tether", "current_price": 0.999065, "fully_diluted_valuation": 120484402410, "total_volume": 27772463426}, {"symbol": "bnb", "name": "BNB", "current_price": 591.86, "fully_diluted_valuation": 86382817062, "total_volume": 798942446}, {"symbol": "sol", "name": "Solana", "current_price": 174.53, "fully_diluted_valuation": 102509969687, "total_volume": 3598340428}, {"symbol": "usdc", "name": "USDC", "current_price": 0.999436, "fully_diluted_valuation": 35036694228, "total_volume": 7325299359}, {"symbol": "xrp", "name": "XRP", "current_price": 0.521079, "fully_diluted_valuation": 52146104184, "total_volume": 886086893}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2652.48, "fully_diluted_valuation": 25887403023, "total_volume": 38444292}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.171116, "fully_diluted_valuation": 25096214222, "total_volume": 2378301605}, {"symbol": "trx", "name": "TRON", "current_price": 0.168987, "fully_diluted_valuation": 14613598450, "total_volume": 445249108}][0m[32;1m[1;3m🎉 Bitcoin is still reigning supreme in the crypto kingdom! 🏰
+
+As of now, Bitcoin (BTC) has a current price of **$72,277**. The fully diluted market cap is a whopping **$1,518,015,546,177**! 💰 That's more than enough to make even a dragon hoard jealous! 🐉
+
+If you're looking to dive into the crypto market, Bitcoin is definitely the heavyweight champion. Just remember, it's a wild ride, so buckle up! 🎢💫[0m
+
+[1m> Finished chain.[0m
