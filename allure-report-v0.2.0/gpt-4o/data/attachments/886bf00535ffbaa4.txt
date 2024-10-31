@@ -1,0 +1,14 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 1}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72277, "fully_diluted_valuation": 1518015546177, "total_volume": 43236767115}][0m[32;1m[1;3m🏆 Bitcoin, the reigning champion of the crypto world, has a market cap that could make even the most affluent envious! With a whopping fully diluted valuation of $1,518,015,546,177, it stands tall like a financial skyscraper! 🏢💰
+
+To give you some perspective, that's like stacking a bunch of gold bars high enough to reach the moon, or at least a couple of football fields! 🏈🌕
+
+If you're thinking of joining the Bitcoin party, just remember, it's not just a coin; it's a whole economy! 🎉🚀[0m
+
+[1m> Finished chain.[0m

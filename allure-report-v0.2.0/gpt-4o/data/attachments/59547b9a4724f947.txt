@@ -1,0 +1,12 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `DuckDuckGoSearchExecutor` with `{'query': 'RSS3 web3 project'}`
+
+
+[0m[32;1m[1;3m
+Invoking: `ProjectExecutor` with `{'keyword': 'RSS3'}`
+
+
+[0m

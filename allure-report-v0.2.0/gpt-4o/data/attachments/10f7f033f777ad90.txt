@@ -1,0 +1,2 @@
+2024-10-31 04:17:37.462 | INFO     | tests.agent_trajectory.asset_management:asset_management_agent:12 - using model: gpt-4o
+2024-10-31 04:17:47.650 | INFO     | openagent.executors.token_util:fetch_tokens:53 - Fetching new data from https://li.quest/v1/tokens

@@ -1,0 +1,14 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72332, "fully_diluted_valuation": 1519003723261, "total_volume": 42429114082}, {"symbol": "eth", "name": "Ethereum", "current_price": 2655.64, "fully_diluted_valuation": 319773080975, "total_volume": 22076141745}, {"symbol": "usdt", "name": "Tether", "current_price": 0.9997, "fully_diluted_valuation": 120527159428, "total_volume": 48092345542}, {"symbol": "bnb", "name": "BNB", "current_price": 592.45, "fully_diluted_valuation": 86432500927, "total_volume": 788312553}, {"symbol": "sol", "name": "Solana", "current_price": 174.48, "fully_diluted_valuation": 102548872458, "total_volume": 3589635820}, {"symbol": "usdc", "name": "USDC", "current_price": 0.999893, "fully_diluted_valuation": 35040842697, "total_volume": 8414013398}, {"symbol": "xrp", "name": "XRP", "current_price": 0.521528, "fully_diluted_valuation": 52146104184, "total_volume": 885466618}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2654.59, "fully_diluted_valuation": 25889281001, "total_volume": 38228087}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.171188, "fully_diluted_valuation": 25096214222, "total_volume": 2379072772}, {"symbol": "trx", "name": "TRON", "current_price": 0.169079, "fully_diluted_valuation": 14620966836, "total_volume": 445456816}][0m[32;1m[1;3m🌟 Drumroll, please! 🥁 The current market cap for Bitcoin (BTC) is a whopping **$1,519,003,723,261**! That's over a trillion dollars! 💰💥
+
+Just to sprinkle in some extra excitement, Bitcoin is currently priced at **$72,332** per coin with a total trading volume of about **$42,429,114,082** in the last 24 hours! 🚀 
+
+Looks like Bitcoin is still the king of the crypto jungle! 🦁💎 Remember to hold on tight; this rollercoaster ride of crypto can be quite thrilling! 🎢😄[0m
+
+[1m> Finished chain.[0m
