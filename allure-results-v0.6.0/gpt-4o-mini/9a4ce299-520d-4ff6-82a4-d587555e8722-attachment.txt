@@ -1,0 +1,20 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72176, "fully_diluted_valuation": 1516122285679, "total_volume": 41835786669}, {"symbol": "eth", "name": "Ethereum", "current_price": 2638.87, "fully_diluted_valuation": 317837983809, "total_volume": 21869094670}, {"symbol": "usdt", "name": "Tether", "current_price": 0.999637, "fully_diluted_valuation": 120525485668, "total_volume": 49569578705}, {"symbol": "bnb", "name": "BNB", "current_price": 588.02, "fully_diluted_valuation": 85889262289, "total_volume": 780287422}, {"symbol": "sol", "name": "Solana", "current_price": 174.09, "fully_diluted_valuation": 102506360529, "total_volume": 3627658549}, {"symbol": "usdc", "name": "USDC", "current_price": 0.999828, "fully_diluted_valuation": 35035130820, "total_volume": 5498636951}, {"symbol": "xrp", "name": "XRP", "current_price": 0.518275, "fully_diluted_valuation": 51881054332, "total_volume": 998159378}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2639.89, "fully_diluted_valuation": 25755343648, "total_volume": 37859114}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.170831, "fully_diluted_valuation": 25053332471, "total_volume": 2289465220}, {"symbol": "trx", "name": "TRON", "current_price": 0.169259, "fully_diluted_valuation": 14639631233, "total_volume": 467182667}][0m[32;1m[1;3m🎉 Let's talk about Bitcoin, the Big Cheese of the crypto world! 🧀💰
+
+As of now, Bitcoin (BTC) has a **current price** of **$72,176**! 🚀
+
+When it comes to market cap, it boasts a **fully diluted valuation** of approximately **$1.52 trillion** (that's trillion with a T, folks! 😲). 
+
+And just to sprinkle in some extra details, its **total trading volume** over the last 24 hours is around **$41.84 billion**. That's a lot of virtual coins changing hands! 💸
+
+If Bitcoin were a celebrity, it would definitely be the A-list star of the crypto red carpet! 🌟
+
+If you have any more questions or wish to dive into other tokens, just holler! 📣[0m
+
+[1m> Finished chain.[0m

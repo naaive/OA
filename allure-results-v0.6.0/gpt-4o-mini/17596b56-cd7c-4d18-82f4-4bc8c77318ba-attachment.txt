@@ -1,0 +1,15 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `FundingRateExecutor` with `{'exchange': 'binance', 'symbol': 'BTC/USDT'}`
+
+
+[0m[36;1m[1;3merror: binance GET https://api.binance.com/api/v3/exchangeInfo 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}[0m[32;1m[1;3m
+Invoking: `DuckDuckGoSearchExecutor` with `{'query': 'current funding rate for BTC on Binance'}`
+
+
+[0m[33;1m[1;3mThe annualized funding rate in bitcoin perpetual futures listed on Binance surpassed 100% for the first time in at least a year, according to data source Velo Data and CoinGlass. BTC: CME vs Binance Futures OI Dominance (Glassnode) In mid-October, bitcoin was trading around $67,000 and the OI on CME hit all-time highs in both notional open interest ($12.4 billion) which is ... Bitcoin funding rates on Binance have hit their lowest levels of 2024, ... the current funding rates "have reached the highest level of negativity" year-to-date (YTD) as short positions ... Bitcoin lending rates work similarly to traditional lending, where individuals can lend their Bitcoin to others in exchange for interest. ... Join readers from Coinbase, a16z, Binance, Uniswap, Sequoia and more for the latest staking rewards, tips, insights and news. ... Bitcompare is a comparison engine that relies on advertising for funding ... Bitcoin Funding Rates: What You Need to Know Right Now! 💹 Understanding Bitcoin Funding Rates Bitcoin funding rates are the percentages that traders with long or short positions either pay or recei. ... Latest Bitcoin Funding Rates (as of August 10, 2024) 1. Binance: -0.0038%. 2. OKX: 0.0028%. 3. dYdX: 0.0071%.[0m

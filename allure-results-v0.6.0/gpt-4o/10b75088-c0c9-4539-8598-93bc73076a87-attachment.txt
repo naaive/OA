@@ -1,0 +1,14 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 1}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72212, "fully_diluted_valuation": 1516122285679, "total_volume": 41949153174}][0m[32;1m[1;3m🎉 Bitcoin, the granddaddy of all cryptocurrencies, currently has a whopping market cap, or fully diluted valuation, of approximately $1.52 trillion! 🤑 That's some serious digital coinage, putting the "bit" in "big time!" 🚀
+
+With a current price of $72,212 and a total volume of around $41.95 billion, it's clear that Bitcoin is still the heavyweight champ in the crypto ring! 🥊💥
+
+If you're thinking of diving into the Bitcoin pool, just remember: it might not be a "bit" of an investment, but a whole lotta "coin!" 😉💸[0m
+
+[1m> Finished chain.[0m

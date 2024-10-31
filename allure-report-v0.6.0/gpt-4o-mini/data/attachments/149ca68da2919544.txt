@@ -1,0 +1,17 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `PriceExecutor` with `{'token': 'BTC'}`
+
+
+[0m[38;5;200m[1;3m{"bitcoin":{"usd":72176,"usd_market_cap":1427727591467.919,"usd_24h_vol":41835786668.893654,"usd_24h_change":-0.210781761678142,"last_updated_at":1730357368}}[0m[32;1m[1;3m🎉 Hold onto your hats, because Bitcoin (BTC) is currently waltzing around at **$72,176**! 💃💰
+
+Here are some spicy stats to chew on:
+- **Market Cap**: A whopping **$1.43 trillion**! That's a lot of zeros! 🤑
+- **24h Trading Volume**: About **$41.84 billion** has been exchanged. Talk about a busy day at the office! 📈
+- **Price Change in 24h**: It’s taken a tiny dip of about **-0.21%**. Just a little hiccup! 😅
+
+Keep your eyes peeled, because the crypto dance floor is always shifting! 🕺✨[0m
+
+[1m> Finished chain.[0m

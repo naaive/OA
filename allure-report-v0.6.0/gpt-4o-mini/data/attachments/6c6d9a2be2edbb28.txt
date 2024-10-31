@@ -1,0 +1,12 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `SwapExecutor` with `{'from_token': 'ETH', 'to_token': 'USDT', 'amount': '20'}`
+
+
+[0m[36;1m[1;3m{"from_token":"ETH","from_token_address":"0x0000000000000000000000000000000000000000","to_token":"USDT","to_token_address":"0xdAC17F958D2ee523a2206206994597C13D831ec7","amount":"20","type":"swap","from_chain_name":"ETH","to_chain_name":"ETH"}[0m[32;1m[1;3mI've initiated the swap of 20 ETH to USDT! 🚀💰 
+
+Let me know if there's anything else you need, or if you'd like to make any more swaps or transfers! 😊[0m
+
+[1m> Finished chain.[0m
