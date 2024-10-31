@@ -1,0 +1,2 @@
+2024-10-31 04:19:22.130 | INFO     | tests.supervisor_chain:supervisor_chain:18 - using model: gpt-4o
+2024-10-31 04:19:23.982 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'asset_management_agent'}

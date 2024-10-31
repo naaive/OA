@@ -1,0 +1,14 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `PriceExecutor` with `{'token': 'ETH'}`
+
+
+[0m[38;5;200m[1;3m{"ethereum":{"usd":2650.52,"usd_market_cap":319270056679.17957,"usd_24h_vol":22568297090.82374,"usd_24h_change":0.40184259383135673,"last_updated_at":1730348441}}[0m[32;1m[1;3m🎉 Exciting news from the crypto world! The current price of Ethereum (ETH) is a whopping $2,650.52! 🚀
+
+Just in case you're curious about the bigger picture, Ethereum's market cap is strutting around with a cool $319.27 billion. And our friend ETH has been quite chatty today, with a 24-hour trading volume of about $22.57 billion and a little price dance of a 0.40% increase! 💃✨
+
+Ethereum is not just a cryptocurrency; it's a whole ecosystem! Let's see what exciting projects and innovations it will support next! 🌟[0m
+
+[1m> Finished chain.[0m

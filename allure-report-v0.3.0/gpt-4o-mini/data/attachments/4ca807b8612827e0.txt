@@ -1,0 +1,5 @@
+2024-10-31 04:18:36.661 | INFO     | tests.agent_trajectory.feed_explore:feed_explorer_agent:12 - using model: gpt-4o-mini
+2024-10-31 04:18:45.991 | INFO     | openagent.executors.tg_util:fetch_tg_msgs:19 - Fetching content from https://gi.rss3.io/rss/telegram/channel/ChannelPANews
+2024-10-31 04:18:45.992 | INFO     | openagent.executors.tg_util:fetch_tg_msgs:19 - Fetching content from https://gi.rss3.io/rss/telegram/channel/chainfeedsxyz
+2024-10-31 04:18:50.260 | ERROR    | openagent.executors.tg_util:fetch_tg_msgs:28 - Failed to fetch from https://gi.rss3.io/rss/telegram/channel/chainfeedsxyz. Status: 500
+2024-10-31 04:18:50.343 | ERROR    | openagent.executors.tg_util:fetch_tg_msgs:28 - Failed to fetch from https://gi.rss3.io/rss/telegram/channel/ChannelPANews. Status: 500
