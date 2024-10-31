@@ -1,0 +1,10 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 1}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72259, "fully_diluted_valuation": 1517438885004, "total_volume": 41766856339}][0m[32;1m[1;3m🎉 Bitcoin, the reigning king of cryptocurrencies, is flexing its muscles with a whopping market cap of approximately $1.52 trillion! 💪✨ It's like the heavyweight champion of the crypto world, always ready to pack a punch in the market. 🥊 Keep an eye on this one; it's always full of surprises! 🚀[0m
+
+[1m> Finished chain.[0m

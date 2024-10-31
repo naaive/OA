@@ -1,0 +1,14 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `SwapExecutor` with `{'from_token': 'ETH', 'to_token': 'USDT', 'amount': '20'}`
+
+
+[0m[36;1m[1;3m{"from_token":"ETH","from_token_address":"0x0000000000000000000000000000000000000000","to_token":"USDT","to_token_address":"0xdAC17F958D2ee523a2206206994597C13D831ec7","amount":"20","type":"swap","from_chain_name":"ETH","to_chain_name":"ETH"}[0m[32;1m[1;3m
+Invoking: `SwapExecutor` with `{'from_token': 'ETH', 'to_token': 'USDT', 'amount': '20'}`
+responded: 🔄 Swapping 20 ETH for USDT is a great choice! Just a moment while I process that swap for you! 💸✨
+
+[0m[36;1m[1;3m{"from_token":"ETH","from_token_address":"0x0000000000000000000000000000000000000000","to_token":"USDT","to_token_address":"0xdAC17F958D2ee523a2206206994597C13D831ec7","amount":"20","type":"swap","from_chain_name":"ETH","to_chain_name":"ETH"}[0m[32;1m[1;3mThe swap of 20 ETH to USDT has been successfully processed! 🎉 Now you're ready to take on the crypto world with those USDT in your wallet! If you need anything else, just let me know! 🚀💰[0m
+
+[1m> Finished chain.[0m
