@@ -1,0 +1,27 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `FeedSourceExecutor` with `{'address': 'XYZ', 'network': 'XYZ'}`
+
+
+[0m[33;1m[1;3mError: Unsupported network 'XYZ'. Please choose from: arbitrum, arweave, avax, base, binance-smart-chain, crossbell, ethereum, farcaster, gnosis, linea, optimism, polygon, vsl[0m[32;1m[1;3mOopsie daisy! 🌼 It seems like the XYZ network is a bit too exotic for me to explore. The supported networks are like a VIP club, and unfortunately, XYZ didn't make the list! 🕺💃
+
+Here are the cool cats you can choose from:
+- Arbitrum
+- Arweave
+- Avalanche (Avax)
+- Base
+- Binance Smart Chain
+- Crossbell
+- Ethereum
+- Farcaster
+- Gnosis
+- Linea
+- Optimism
+- Polygon
+- VSL
+
+If you want to dive into one of these networks, just let me know! 🚀[0m
+
+[1m> Finished chain.[0m

@@ -1,0 +1,17 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `FundingRateExecutor` with `{'exchange': 'binance', 'symbol': 'BTC/USDT'}`
+
+
+[0m[36;1m[1;3merror: binance GET https://api.binance.com/api/v3/exchangeInfo 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}[0m[32;1m[1;3mOh no! It looks like I can't access Binance's funding rate for BTC right now. It seems my virtual passport is restricted! 🛂 But don’t worry, I'm still here to help you navigate the crypto seas! 🌊
+
+You might want to check directly on Binance's website or use a crypto data aggregator to find the funding rate. It's like fishing for the best catch of the day! 🎣
+
+If you have any other questions or need information about a different token or anything else, just let me know! I'm all ears and ready to dive in! 🐠💰[0m
+
+[1m> Finished chain.[0m

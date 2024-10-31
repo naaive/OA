@@ -1,0 +1,2 @@
+2024-10-31 03:46:18.016 | INFO     | tests.supervisor_chain:supervisor_chain:18 - using model: gpt-4o-mini
+2024-10-31 03:46:20.135 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'fallback_agent'}
