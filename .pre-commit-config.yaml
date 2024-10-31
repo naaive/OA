@@ -1,0 +1,42 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-ast
+      - id: check-case-conflict
+      - id: check-docstring-first
+      - id: check-executables-have-shebangs
+      - id: check-json
+      - id: check-added-large-files
+      - id: pretty-format-json
+        args:
+          - "--autofix"
+          - "--indent=4"
+
+      - id: detect-private-key
+      - id: debug-statements
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+
+  - repo: local
+    hooks:
+      - id: mypy
+        name: mypy
+        entry: mypy .
+        require_serial: true
+        language: system
+        types: [ python ]
+        pass_filenames: false
+        args: [ --config-file=pyproject.toml ]
+      - id: ruff-lint
+        name: ruff-lint
+        entry: ruff check --fix
+        require_serial: true
+        language: system
+        types: [ python ]
+      - id: ruff-format
+        name: ruff-format
+        entry: ruff format
+        require_serial: true
+        language: system
+        types: [ python ]

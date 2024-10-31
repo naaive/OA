@@ -1,0 +1,18 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72355, "fully_diluted_valuation": 1519815827698, "total_volume": 42926892489}, {"symbol": "eth", "name": "Ethereum", "current_price": 2658.01, "fully_diluted_valuation": 320262303527, "total_volume": 22178485784}, {"symbol": "usdt", "name": "Tether", "current_price": 0.999348, "fully_diluted_valuation": 120548484057, "total_volume": 50586321632}, {"symbol": "bnb", "name": "BNB", "current_price": 592.36, "fully_diluted_valuation": 86423209893, "total_volume": 746493861}, {"symbol": "sol", "name": "Solana", "current_price": 174.71, "fully_diluted_valuation": 102726121342, "total_volume": 3684769357}, {"symbol": "usdc", "name": "USDC", "current_price": 0.999496, "fully_diluted_valuation": 35041818759, "total_volume": 5420142141}, {"symbol": "xrp", "name": "XRP", "current_price": 0.521315, "fully_diluted_valuation": 52152697823, "total_volume": 927917335}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2656.97, "fully_diluted_valuation": 25936249857, "total_volume": 42126579}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.170391, "fully_diluted_valuation": 25000454472, "total_volume": 2392359368}, {"symbol": "trx", "name": "TRON", "current_price": 0.169045, "fully_diluted_valuation": 14627572087, "total_volume": 481001125}][0m[32;1m[1;3m🎉 Bitcoin is still the heavyweight champion of the crypto world! 🥊 As of now, Bitcoin (BTC) has a **market cap** of approximately **$1.52 trillion**! 💰
+
+Here are some quick stats:
+- **Current Price**: $72,355 🤑
+- **Total Volume**: $42.93 billion 📈
+
+Bitcoin's market cap is like a giant pizza—everyone wants a slice! 🍕 Keep an eye on it, as the crypto market can be more volatile than a cat on a hot tin roof! 😺🔥 
+
+If you have any other questions or need more market data, just let me know! 🚀[0m
+
+[1m> Finished chain.[0m

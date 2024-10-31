@@ -1,0 +1,1 @@
+2024-10-31 03:47:59.165 | INFO     | tests.agent_trajectory.market_analysis:market_analysis_agent:12 - using model: gpt-4o-mini

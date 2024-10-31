@@ -1,0 +1,1 @@
+2024-10-31 03:47:59.159 | INFO     | tests.agent_trajectory.feed_explore:feed_explorer_agent:12 - using model: gpt-4o-mini
