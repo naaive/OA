@@ -1,0 +1,14 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72154, "fully_diluted_valuation": 1515958337065, "total_volume": 42326936552}, {"symbol": "eth", "name": "Ethereum", "current_price": 2635.24, "fully_diluted_valuation": 317624174782, "total_volume": 21472945496}, {"symbol": "usdt", "name": "Tether", "current_price": 0.999235, "fully_diluted_valuation": 120517195473, "total_volume": 47211077990}, {"symbol": "bnb", "name": "BNB", "current_price": 588.0, "fully_diluted_valuation": 85777120128, "total_volume": 677318440}, {"symbol": "sol", "name": "Solana", "current_price": 173.39, "fully_diluted_valuation": 102030340217, "total_volume": 3639373439}, {"symbol": "usdc", "name": "USDC", "current_price": 0.999579, "fully_diluted_valuation": 35033988186, "total_volume": 5474965621}, {"symbol": "xrp", "name": "XRP", "current_price": 0.517566, "fully_diluted_valuation": 51776375147, "total_volume": 998573432}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2633.47, "fully_diluted_valuation": 25710494124, "total_volume": 37936920}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.171276, "fully_diluted_valuation": 25114952721, "total_volume": 2276591209}, {"symbol": "trx", "name": "TRON", "current_price": 0.1693, "fully_diluted_valuation": 14650099862, "total_volume": 470560375}][0m[32;1m[1;3m🚀 **Bitcoin (BTC)** is shining bright in the crypto cosmos! As of now, its **current price** is **$72,154**. 🌟
+
+Now, when it comes to the **market cap** (which is like the total value of all Bitcoin in circulation), it's sitting pretty at a whopping **$1,515,958,337,065**! That's over **1.5 trillion dollars**! 💰💸
+
+Just think of it this way: Bitcoin is like the rockstar of the crypto world, with fans (investors) flocking from all over! 🎸 Is there anything else you'd like to know about the crypto scene? 😄[0m
+
+[1m> Finished chain.[0m

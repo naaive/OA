@@ -1,0 +1,12 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `TelegramNewsExecutor` with `{'limit': 5}`
+
+
+[0m[33;1m[1;3mAn error occurred while fetching news, this is the results: [null, null][0m[32;1m[1;3mIt seems there was an issue fetching the latest news updates from crypto channels. Unfortunately, I wasn't able to retrieve the information at this time.
+
+If you're looking for specific updates or topics in the crypto space, please let me know, and I can try to assist you in another way![0m
+
+[1m> Finished chain.[0m

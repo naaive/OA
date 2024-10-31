@@ -1,0 +1,18 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 72154, "fully_diluted_valuation": 1515958337065, "total_volume": 42326936552}, {"symbol": "eth", "name": "Ethereum", "current_price": 2635.24, "fully_diluted_valuation": 317624174782, "total_volume": 21472945496}, {"symbol": "usdt", "name": "Tether", "current_price": 0.999235, "fully_diluted_valuation": 120517195473, "total_volume": 47211077990}, {"symbol": "bnb", "name": "BNB", "current_price": 588.0, "fully_diluted_valuation": 85777120128, "total_volume": 677318440}, {"symbol": "sol", "name": "Solana", "current_price": 173.39, "fully_diluted_valuation": 102030340217, "total_volume": 3639373439}, {"symbol": "usdc", "name": "USDC", "current_price": 0.999579, "fully_diluted_valuation": 35033988186, "total_volume": 5474965621}, {"symbol": "xrp", "name": "XRP", "current_price": 0.517566, "fully_diluted_valuation": 51776375147, "total_volume": 998573432}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2633.47, "fully_diluted_valuation": 25710494124, "total_volume": 37936920}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.171276, "fully_diluted_valuation": 25114952721, "total_volume": 2276591209}, {"symbol": "trx", "name": "TRON", "current_price": 0.1693, "fully_diluted_valuation": 14650099862, "total_volume": 470560375}][0m[32;1m[1;3mSo, you're curious about the king of crypto, Bitcoin! 👑 Well, hold onto your wallets because here are the dazzling details:
+
+- **Current Price:** $72,154 🤑
+- **Market Cap (Fully Diluted Valuation):** Approximately **$1,515,958,337,065** (that's over 1.5 trillion dollars)! 💰💥
+- **Total Volume:** Roughly **$42,326,936,552** (that's a lot of trading action!) 📈📊
+
+Bitcoin is still the heavyweight champion of the crypto world! It’s like the heavyweight boxer that keeps winning rounds – it just keeps coming back for more! 🥊💪 
+
+If you have any more questions or want to know about other tokens, just holler! 🎉[0m
+
+[1m> Finished chain.[0m

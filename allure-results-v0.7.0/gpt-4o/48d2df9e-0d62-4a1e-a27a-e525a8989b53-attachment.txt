@@ -1,0 +1,42 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `NFTRankingExecutor` with `{'limit': 5}`
+
+
+[0m[33;1m[1;3m[{"collection_title": "CryptoPunks", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xb56f7981f7d61ba94baca40f29250362acadd3bbc850b2cfd0578ad8df624213.png", "floor_price_usd": "69605", "collection_address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"}, {"collection_title": "Bored Ape Yacht Club", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xad5f79949e4183a7f4825e8ddb781f583952b71a4b2c01fa9a9ec3adbabc6a33.png", "floor_price_usd": "30144", "collection_address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"}, {"collection_title": "Pudgy Penguins", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0x259dd55fdc68ce6b79a4aa04b82cd320fc70742f3f39f2768e58931b68012b4e.png", "floor_price_usd": "23212", "collection_address": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8"}, {"collection_title": "Infinex Patrons", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xb456a3666b99be30bc9358e9952a39ea2471f275791ebf73222d82b06581a8ee.png", "floor_price_usd": "2984.81", "collection_address": "0xb5af0c7f3885c1007e6699c357566610291585cb"}, {"collection_title": "Autoglyphs", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xa0af6d741af62abde629ec0aaff192f8ee7df93c21a50823e1c8c4a2ffa008d3.png", "floor_price_usd": "261448", "collection_address": "0xd4e4078ca3495de5b1d4db434bebc5a986197782"}][0m[32;1m[1;3m🎉 Here are the top 5 NFT collections right now, and boy, are they on fire! 🔥
+
+1. **CryptoPunks**  
+   ![CryptoPunks](https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xb56f7981f7d61ba94baca40f29250362acadd3bbc850b2cfd0578ad8df624213.png)  
+   Floor Price: $69,605  
+   [View Collection](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb)  
+   These punks are not just cool; they're the OGs of the NFT world! 😎
+
+2. **Bored Ape Yacht Club**  
+   ![Bored Ape Yacht Club](https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xad5f79949e4183a7f4825e8ddb781f583952b71a4b2c01fa9a9ec3adbabc6a33.png)  
+   Floor Price: $30,144  
+   [View Collection](https://etherscan.io/address/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d)  
+   Don't let the 'bored' fool you; these apes are anything but! 🐒
+
+3. **Pudgy Penguins**  
+   ![Pudgy Penguins](https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0x259dd55fdc68ce6b79a4aa04b82cd320fc70742f3f39f2768e58931b68012b4e.png)  
+   Floor Price: $23,212  
+   [View Collection](https://etherscan.io/address/0xbd3531da5cf5857e7cfaa92426877b022e612cf8)  
+   These penguins are as cool as ice! 🐧❄️
+
+4. **Infinex Patrons**  
+   ![Infinex Patrons](https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xb456a3666b99be30bc9358e9952a39ea2471f275791ebf73222d82b06581a8ee.png)  
+   Floor Price: $2,984.81  
+   [View Collection](https://etherscan.io/address/0xb5af0c7f3885c1007e6699c357566610291585cb)  
+   Patrons with a passion for pixels! 🎨
+
+5. **Autoglyphs**  
+   ![Autoglyphs](https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xa0af6d741af62abde629ec0aaff192f8ee7df93c21a50823e1c8c4a2ffa008d3.png)  
+   Floor Price: $261,448  
+   [View Collection](https://etherscan.io/address/0xd4e4078ca3495de5b1d4db434bebc5a986197782)  
+   Art meets algorithm in this collection! 🤖🎨
+
+These collections are making waves in the NFT ocean! 🌊💎[0m
+
+[1m> Finished chain.[0m
