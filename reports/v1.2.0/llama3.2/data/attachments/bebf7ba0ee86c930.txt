@@ -1,0 +1,2 @@
+2024-11-01 02:43:45.364 | WARNING  | openagent.workflows.supervisor_chain:extract_next:52 - Error extracting next agent: [{'args': {'address': '0x742d35Cc6634C0532925a3b844Bc454e4438f44e'}, 'type': 'feed_explorer_agent'}]
+2024-11-01 02:43:45.364 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'fallback_agent'}

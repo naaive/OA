@@ -1,0 +1,18 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `TelegramNewsExecutor` with `{'limit': '10'}`
+
+
+[0m[33;1m[1;3mAn error occurred while fetching news, this is the results: [null, null][0m[32;1m[1;3mUnfortunately, I was unable to fetch the latest 10 cryptocurrency and blockchain news updates from trusted Telegram channels. It's possible that the channels are private or not publicly available.
+
+However, I can suggest some alternative ways to get you caught up on the latest crypto news:
+
+1. **Check online news websites**: Websites like Coindesk, CoinTelegraph, and The Block provide real-time updates on the cryptocurrency market.
+2. **Follow reputable social media accounts**: Follow well-known cryptocurrency influencers and accounts on Twitter, LinkedIn, or other platforms to stay informed about the latest news and trends.
+3. **Use a news aggregator app**: Apps like NewsBot or CryptoNewsAlert can aggregate news from various sources and provide you with a concise overview of the latest developments.
+
+If you'd like, I can try again to fetch news using the TelegramNewsExecutor tool. Alternatively, I can suggest some alternative ways for you to get the information you're looking for.[0m
+
+[1m> Finished chain.[0m

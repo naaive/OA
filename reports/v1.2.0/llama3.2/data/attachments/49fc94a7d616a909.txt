@@ -1,0 +1,8 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `SwapExecutor` with `{'amount': '20', 'from_chain': 'ETH', 'from_token': 'ETH', 'to_chain': 'eth', 'to_token': 'USDT'}`
+
+
+[0m
