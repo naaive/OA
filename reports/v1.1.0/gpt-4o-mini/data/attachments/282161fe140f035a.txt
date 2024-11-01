@@ -1,0 +1,17 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `FundingRateExecutor` with `{'exchange': 'binance', 'symbol': 'BTC/USDT'}`
+
+
+[0m[33;1m[1;3merror: binance GET https://api.binance.com/api/v3/exchangeInfo 451  {
+  "code": 0,
+  "msg": "Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error."
+}[0m[32;1m[1;3mOh no! It seems that we're hitting a bit of a wall with Binance's funding rate service. 😅 It's like trying to get into a party without an invitation! This can happen if Binance’s services are restricted in certain locations.
+
+But don’t worry! You can check the funding rate directly on the Binance website or through their app. Just navigate to the Futures section, and you'll find the funding rates there!
+
+If you're looking for other exchanges or need help with something else, just let me know! I'm here to help you navigate through the crypto jungle! 🌟🚀[0m
+
+[1m> Finished chain.[0m

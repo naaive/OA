@@ -1,0 +1,1 @@
+2024-11-01 02:20:24.414 | INFO     | tests.agent_trajectory.block_explore:block_explorer_agent:12 - using model: gpt-4o-mini

@@ -1,0 +1,12 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 1}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 69238, "fully_diluted_valuation": 1452616671202, "total_volume": 46013520107}][0m[32;1m[1;3m🎉 Bitcoin is flexing its financial muscles with a whopping market cap of $1,452,616,671,202! 💪 That's a lot of zeros, folks! With the current price at $69,238, it's like Bitcoin is saying, "Hey, I make it rain digitally! 🌧️💸" 
+
+If you're thinking about investing, remember—always HODL onto your sense of humor too! 😂[0m
+
+[1m> Finished chain.[0m
