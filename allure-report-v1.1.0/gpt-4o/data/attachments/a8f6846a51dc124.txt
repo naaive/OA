@@ -1,0 +1,1 @@
+2024-11-01 02:21:12.845 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'block_explorer_agent'}
