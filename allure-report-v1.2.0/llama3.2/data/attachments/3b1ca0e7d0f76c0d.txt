@@ -1,0 +1,8 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `NFTRankingExecutor` with `{}`
+
+
+[0m

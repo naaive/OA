@@ -1,0 +1,22 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `TelegramNewsExecutor` with `{'limit': 5}`
+
+
+[0m[33;1m[1;3mAn error occurred while fetching news, this is the results: [null, null][0m[32;1m[1;3mIt seems that I was unable to fetch the latest 5 news updates from crypto channels. This might be due to various reasons such as network issues or limited availability of information.
+
+However, I can suggest some popular cryptocurrency and blockchain news channels on Telegram that you may want to check out for the latest updates:
+
+1. @CoinDesk
+2. @TheTIE
+3. @CryptoSlate
+4. @CoindeskCartoons
+5. @BitcoinMagazine
+
+These channels are known for providing accurate and up-to-date information on the cryptocurrency and blockchain space.
+
+If you'd like, I can try to fetch news from these channels for you instead. Just let me know![0m
+
+[1m> Finished chain.[0m

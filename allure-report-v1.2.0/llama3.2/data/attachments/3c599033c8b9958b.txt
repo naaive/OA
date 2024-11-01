@@ -1,0 +1,12 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `NFTBalanceExecutor` with `{'chain': 'eth', 'wallet_address': '0x33c0814654fa367ce67d8531026eb4481290e63c'}`
+
+
+[0m[36;1m[1;3m[{"amount": "1", "name": "NameWrapper", "symbol": null}, {"amount": "1", "name": "RSS Fruits Token", "symbol": "RFT"}, {"amount": "1", "name": "The Genesis RSS3 Avatar NFT", "symbol": "The Genesis RSS3 Avatar NFT"}][0m[32;1m[1;3mHere's the result of the NFT holdings check for the wallet address 0x33c0814654fa367ce67d8531026eb4481290e63c:
+
+You have one (1) **RSS Fruits Token** (RFT) and one (1) **The Genesis RSS3 Avatar NFT** in your Ethereum NFT holdings! 😊[0m
+
+[1m> Finished chain.[0m

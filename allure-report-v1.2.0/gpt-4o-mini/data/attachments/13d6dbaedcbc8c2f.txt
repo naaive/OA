@@ -1,0 +1,1 @@
+2024-11-01 02:40:20.904 | INFO     | tests.agent_trajectory.research_analyst:research_analyst_agent:12 - using model: gpt-4o-mini

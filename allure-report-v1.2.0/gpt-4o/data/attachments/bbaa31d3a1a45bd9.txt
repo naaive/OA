@@ -1,0 +1,1 @@
+2024-11-01 02:41:09.632 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'fallback_agent'}

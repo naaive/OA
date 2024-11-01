@@ -1,0 +1,20 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `NFTRankingExecutor` with `{'limit': '5'}`
+
+
+[0m[33;1m[1;3m[{"collection_title": "CryptoPunks", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xb56f7981f7d61ba94baca40f29250362acadd3bbc850b2cfd0578ad8df624213.png", "floor_price_usd": "65591", "collection_address": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"}, {"collection_title": "Bored Ape Yacht Club", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xad5f79949e4183a7f4825e8ddb781f583952b71a4b2c01fa9a9ec3adbabc6a33.png", "floor_price_usd": "28371", "collection_address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"}, {"collection_title": "Pudgy Penguins", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0x259dd55fdc68ce6b79a4aa04b82cd320fc70742f3f39f2768e58931b68012b4e.png", "floor_price_usd": "21439", "collection_address": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8"}, {"collection_title": "Infinex Patrons", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xb456a3666b99be30bc9358e9952a39ea2471f275791ebf73222d82b06581a8ee.png", "floor_price_usd": "2756.09", "collection_address": "0xb5af0c7f3885c1007e6699c357566610291585cb"}, {"collection_title": "Autoglyphs", "collection_image": "https://market-data-images.s3.us-east-1.amazonaws.com/tokenImages/0xa0af6d741af62abde629ec0aaff192f8ee7df93c21a50823e1c8c4a2ffa008d3.png", "floor_price_usd": "249140", "collection_address": "0xd4e4078ca3495de5b1d4db434bebc5a986197782"}][0m[32;1m[1;3mThe world of NFTs is a wild one, and we're excited to give you the scoop on the top 5 NFT collections right now! 🎉
+
+**And here are the top 5 NFT collections:**
+
+1. **CryptoPunks**: These digital punks have been around since 2017 and are still going strong. With a floor price of $65,591, they're definitely a collector's dream come true!
+2. **Bored Ape Yacht Club**: Who wouldn't want to own a piece of art that's part monkey, part yacht? The Bored Apes have a floor price of $28,371 and are sure to make any NFT enthusiast smile.
+3. **Pudgy Penguins**: These adorable penguins have captured the hearts of many an NFT collector. With a floor price of $21,439, they're definitely worth waddling after.
+4. **Infinex Patrons**: For those who want to be part of something exclusive and high-end, Infinex Patrons offer a unique experience with a floor price of $2,756.09.
+5. **Autoglyphs**: Last but certainly not least, we have the mysterious Autoglyphs. With a floor price of $249,140, these glyphs are sure to unlock some serious NFT power!
+
+There you have it – the top 5 NFT collections that are making waves in the crypto world! 🌊 Whether you're a seasoned collector or just starting out, there's something for everyone in this list. So go ahead, dive on in, and see which one catches your eye (or should I say, collection?) 😄[0m
+
+[1m> Finished chain.[0m

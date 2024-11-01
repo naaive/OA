@@ -1,0 +1,2 @@
+2024-11-01 02:42:44.056 | INFO     | tests.agent_trajectory.feed_explore:feed_explorer_agent:12 - using model: gpt-4o
+2024-11-01 02:42:52.471 | INFO     | openagent.executors.feed_executor:fetch_feeds:82 - fetching https://gi.rss3.io/decentralized/vitalik.eth?limit=5&action_limit=10&tag=social&type=post

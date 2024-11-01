@@ -1,0 +1,16 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 10}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 69389, "fully_diluted_valuation": 1457617674430, "total_volume": 47354072328}, {"symbol": "eth", "name": "Ethereum", "current_price": 2505.41, "fully_diluted_valuation": 301291705203, "total_volume": 21027024597}, {"symbol": "usdt", "name": "Tether", "current_price": 0.998753, "fully_diluted_valuation": 120441701711, "total_volume": 39553469392}, {"symbol": "bnb", "name": "BNB", "current_price": 576.9, "fully_diluted_valuation": 84167236171, "total_volume": 1104244310}, {"symbol": "sol", "name": "Solana", "current_price": 167.4, "fully_diluted_valuation": 98356400059, "total_volume": 3483546844}, {"symbol": "usdc", "name": "USDC", "current_price": 1.0, "fully_diluted_valuation": 34703196172, "total_volume": 5494812742}, {"symbol": "xrp", "name": "XRP", "current_price": 0.510426, "fully_diluted_valuation": 51055460500, "total_volume": 1256247161}, {"symbol": "steth", "name": "Lido Staked Ether", "current_price": 2505.1, "fully_diluted_valuation": 24441563403, "total_volume": 37465739}, {"symbol": "doge", "name": "Dogecoin", "current_price": 0.160082, "fully_diluted_valuation": 23458488037, "total_volume": 2513716106}, {"symbol": "trx", "name": "TRON", "current_price": 0.167824, "fully_diluted_valuation": 14519435661, "total_volume": 510191613}][0m[32;1m[1;3m🎉 Time to get excited about Bitcoin! 🎉
+
+As of now, Bitcoin (BTC) is strutting its stuff with a **current price of $69,389**! 💰💃
+
+And the market cap? It's a whopping **$1,457,617,674,430**! That's over 1.4 trillion reasons to love it! 🚀
+
+So if you were wondering why everyone's buzzing about Bitcoin, it's because it's not just a token—it's a whole market phenomenon! Keep those wallets ready! 💼✨[0m
+
+[1m> Finished chain.[0m
