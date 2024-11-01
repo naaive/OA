@@ -1,0 +1,22 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `TokenBalanceExecutor` with `{'chain': 'eth', 'wallet_address': '0x33c0814654fa367ce67d8531026eb4481290e63c'}`
+
+
+[0m[38;5;200m[1;3m[{"symbol": "ETH", "balance_formatted": "0.60967011631557335", "usd_value": 1514.0239415750702}, {"symbol": "USDT", "balance_formatted": "319.421186", "usd_value": 319.4247765815228}, {"symbol": "RSS3", "balance_formatted": "55.32", "usd_value": 6.230214175860227}, {"symbol": "ORDIBOT", "balance_formatted": "2856.365697944", "usd_value": 0.03590866188762808}, {"symbol": "Get $STONE reward at https://stakestonelabs.com", "balance_formatted": "48200", "usd_value": null}, {"symbol": "Get $STONE reward at https://stakestonelabs.xyz", "balance_formatted": "75000", "usd_value": null}, {"symbol": "Visit https://afcoc.xyz to claim rewards.", "balance_formatted": "801", "usd_value": null}, {"symbol": "Reward Token - Claim at https://stUSD.shop", "balance_formatted": "1325", "usd_value": null}, {"symbol": "Visit https://usdrewards.org to claim rewards", "balance_formatted": "3999.99", "usd_value": null}][0m[32;1m[1;3mHere's the breakdown of the token balances for the address **0x33c0814654fa367ce67d8531026eb4481290e63c** on the Ethereum network:
+
+- **ETH**: 0.6097 ETH (valued at approximately $1514.02)
+- **USDT**: 319.4212 USDT (valued at approximately $319.42)
+- **RSS3**: 55.32 RSS3 (valued at approximately $6.23)
+- **ORDIBOT**: 2856.3657 ORDIBOT (valued at approximately $0.036)
+- **Get $STONE reward at https://stakestonelabs.com**: 48,200 tokens
+- **Get $STONE reward at https://stakestonelabs.xyz**: 75,000 tokens
+- **Visit https://afcoc.xyz to claim rewards**: 801 tokens
+- **Reward Token - Claim at https://stUSD.shop**: 1,325 tokens
+- **Visit https://usdrewards.org to claim rewards**: 3,999.99 tokens
+
+If you have any questions or need further assistance, feel free to ask! 😊[0m
+
+[1m> Finished chain.[0m

@@ -1,0 +1,2 @@
+2024-11-01 02:05:31.937 | INFO     | tests.supervisor_chain:supervisor_chain:18 - using model: gpt-4o
+2024-11-01 02:05:33.683 | INFO     | tests.supervisor_chain:next_role:11 - response: {'next': 'research_analyst_agent'}

@@ -1,0 +1,18 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `CoinMarketExecutor` with `{'order': 'market_cap_desc', 'size': 1}`
+
+
+[0m[36;1m[1;3m[{"symbol": "btc", "name": "Bitcoin", "current_price": 69243, "fully_diluted_valuation": 1453203778958, "total_volume": 47818341791}][0m[32;1m[1;3m🎉 Let's talk about the king of cryptocurrencies—Bitcoin! 👑
+
+As of now, Bitcoin (BTC) has a **current price** of **$69,243**! That's some serious coin! 💰💸
+
+In terms of **market cap**, it stands at a jaw-dropping **$1,453,203,778,958** (that's over 1.4 trillion bucks!). Talk about a heavyweight in the crypto ring! 🥊
+
+And if you're curious, its **total volume** in the last 24 hours is approximately **$47,818,341,791**. That's a lot of trading action! 🚀
+
+So, are you ready to ride the Bitcoin wave? 🌊😄[0m
+
+[1m> Finished chain.[0m
