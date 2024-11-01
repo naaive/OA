@@ -1,0 +1,1 @@
+2024-11-01 02:06:43.791 | INFO     | tests.agent_trajectory.market_analysis:market_analysis_agent:12 - using model: gpt-4o

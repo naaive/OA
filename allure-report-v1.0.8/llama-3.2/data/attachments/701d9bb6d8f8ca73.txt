@@ -1,0 +1,1 @@
+2024-11-01 02:08:58.291 | INFO     | tests.agent_trajectory.asset_management:asset_management_agent:12 - using model: llama-3.2

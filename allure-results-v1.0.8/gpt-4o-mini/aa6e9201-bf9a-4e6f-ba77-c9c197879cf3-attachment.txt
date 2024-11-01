@@ -1,0 +1,19 @@
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3m
+Invoking: `BlockChainStatExecutor` with `{'chain': 'ethereum'}`
+
+
+[0m[36;1m[1;3m{'data': {'blocks': 21090525, 'transactions': 2563542796, 'blocks_24h': 7174, 'circulation_approximate': '122375301624480000000000000', 'transactions_24h': 1089397, 'difficulty': 0, 'volume_24h_approximate': '2607209874381273500000000', 'mempool_transactions': 0, 'mempool_median_gas_price': 0, 'mempool_tps': 0, 'mempool_total_value_approximate': '0', 'best_block_height': 21089689, 'best_block_hash': '9f7642e32f7cc420b48925df634c8cdef86085185aa860a601819c20a46d4733', 'best_block_time': '2024-11-01 02:04:23', 'uncles': 1306731, 'uncles_24h': 0, 'blockchain_size': 1106743181448, 'calls': 10667244603, 'average_transaction_fee_24h': '1274704956609003', 'median_transaction_fee_24h': '464643821907660', 'inflation_24h': 0, 'average_simple_transaction_fee_24h': '250666131212058', 'median_simple_transaction_fee_24h': '201124478373000', 'burned': '4435248244714870894546444', 'burned_24h': '1020744698020098991479', 'largest_transaction_24h': {'hash': '0x5ae048c70ec05224d669f94492ef435169f6dbee44989a502cfe22f7c1acb7c0', 'value_usd': 132901940.918}, 'hashrate_24h': '0', 'inflation_usd_24h': 0, 'average_transaction_fee_usd_24h': 3.1845444048980096, 'median_transaction_fee_usd_24h': 1.1608010745190307, 'average_simple_transaction_fee_usd_24h': 0.6262291689618376, 'median_simple_transaction_fee_usd_24h': 0.5024612393401311, 'market_price_usd': 2498.26, 'market_price_btc': 0.036065540638083, 'market_price_usd_change_24h_percentage': -6.1925, 'market_cap_usd': 301835098410, 'market_dominance_percentage': 12.26, 'layer_2': {'erc_20': {'tokens': 1094896, 'transactions': 1857512355, 'tokens_24h': 754, 'transactions_24h': 1298375}, 'erc_721': {'tokens': 241869, 'transactions': 247628068, 'tokens_24h': 35, 'transactions_24h': 39134}}, 'countdowns': [{'event': 'eth2 launch', 'eth_staked': 52680692.45543332, 'eth_needed': 524288}], 'suggested_transaction_fee_gwei_options': {'sloth': 4, 'slow': 5, 'normal': 5, 'fast': 6, 'cheetah': 11}, 'addresses': 0}, 'context': {'code': 200, 'source': 'A', 'state': 21089689, 'state_layer_2': 21089689, 'market_price_usd': 2516.63, 'cache': {'live': False, 'duration': 'Ignore', 'since': '2024-11-01 02:04:37', 'until': '2024-11-01 02:05:48', 'time': 3.0994415283203125e-06}, 'api': {'version': '2.0.95-ie', 'last_major_update': '2022-11-07 02:00:00', 'next_major_update': '2023-11-12 02:00:00', 'documentation': 'https://blockchair.com/api/docs', 'notice': 'Try out our new API v.3: https://3xpl.com/data'}, 'servers': 'API4,ETH3,ETH3', 'time': 2.6382288932800293, 'render_time': 0.0017430782318115234, 'full_time': 0.0017461776733398438, 'request_cost': 1}}[0m[32;1m[1;3m🎉 The latest block height on the Ethereum network is **21,089,689**! That's quite a milestone! 🚀
+
+Just think of it as Ethereum's way of saying, "I'm getting older, but I'm still in my prime!" 😉 
+
+If you're curious about more stats, here are a few highlights:
+- Total transactions: **2,563,542,796** (that's a lot of digital foot traffic! 🚶‍♂️💨)
+- Average transaction fee in the last 24 hours: **~$3.18** 💸
+- Market price of ETH: **$2,516.63** 📈
+
+Is there anything else you'd like to know about the Ethereum network? I'm here to help! 😄[0m
+
+[1m> Finished chain.[0m
