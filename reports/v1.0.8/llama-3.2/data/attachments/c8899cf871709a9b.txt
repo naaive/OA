@@ -1,0 +1,1 @@
+2024-11-01 02:07:28.962 | INFO     | tests.supervisor_chain:supervisor_chain:18 - using model: llama-3.2
